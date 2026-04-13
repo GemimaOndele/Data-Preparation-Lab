@@ -1,5 +1,11 @@
 # Data Preparation Lab
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+End-to-end data preparation workflow with robust cleaning, exploratory visual diagnostics, and publication-ready KPI dashboards.
+
 This repository contains my **Data Preparation Lab** for the *Introduction to Computer Vision* course.
 
 ## Contents
