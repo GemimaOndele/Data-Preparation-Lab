@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+# Local temporary/system files
+Thumbs.db
+desktop.ini
+
+# Large raw datasets (download separately)
+Dataset/*.csv
