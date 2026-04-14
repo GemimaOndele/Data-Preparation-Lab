@@ -43,6 +43,23 @@ Raw CSV files are not tracked in this repo because they are large.
 | `linkedin_export/` | Publication-ready visuals and text assets | `.png`, `.md` |
 | `Data_Preparation_Lab.ipynb` | Main end-to-end workflow (cleaning, EDA, dashboard generation) | Jupyter Notebook |
 
+## Download Data Assets
+
+The project repository is published here:
+
+- Repository: <https://github.com/GemimaOndele/Data-Preparation-Lab>
+
+Large cleaned outputs are available in the GitHub Release:
+
+- Data Assets v1: <https://github.com/GemimaOndele/Data-Preparation-Lab/releases/tag/data-assets-v1>
+
+This release contains:
+
+- `cleaned_individual_bundle.zip`
+- `NFL Play by Play 2009-2016 (v3)_cleaned.csv.gz`
+- `NFL Play by Play 2009-2017 (v4)_cleaned.csv.gz`
+- `NFL Play by Play 2009-2018 (v5)_cleaned.csv.gz`
+
 ## Quick Start (Conda)
 
 ```bash
