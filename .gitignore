@@ -8,3 +8,9 @@ desktop.ini
 
 # Large raw datasets (download separately)
 Dataset/*.csv
+
+# Large generated cleaned exports
+Dataset/cleaned_individual/
+Dataset/cleaned_individual_bundle.zip
+Dataset/cleaned_primary_schema.csv.gz
+Dataset/cleaned_primary_schema_tiny.csv.gz
